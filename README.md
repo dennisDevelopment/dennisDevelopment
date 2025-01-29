@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dennisDevelopment
 - 👀 I’m interested in becoming a back-end developer
-- 🌱 I’m currently learning Python3 & MySql
+- 🌱 I’m currently learning PhP and im "hobbyist proficient" with Python3, Lua & MySQL
 <!--- 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me - contact.developerdennis@gmail.com
 - ⚡ Fun fact: I never use Github because i work alone, so i keep everything local. But i would love to use it in a professional setting!
